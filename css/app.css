@@ -4,7 +4,6 @@ html {
 }
 .sb-body{
     font-family: 'Montserrat', sans-serif;
-    background: #6A9E98;
     height: 100%;
     color: #fff;
 }
@@ -14,7 +13,7 @@ html {
 
 .sb-main-body{
     background: #100941;
-    min-height: 1000px;
+    min-height: 100vh;
 }
 
 .sb-main-body .callout-sb {
