@@ -1,0 +1,51 @@
+/* New Styles and Style Overrides */
+html {
+    height: 100%;
+}
+.sb-body{
+    font-family: 'Montserrat', sans-serif;
+    background: #6A9E98;
+    height: 100%;
+    color: #fff;
+}
+.bio-col-reveal {
+    background: #231B60;
+}
+
+.sb-main-body{
+    background: #100941;
+    min-height: 1000px;
+}
+
+.sb-main-body .callout-sb {
+    background-color: #231B60;
+}
+
+.sb-main-body h1{
+    font-weight: bold;
+}
+
+.sb-main-body .big-msg {
+    margin-top: 100px;
+    margin-bottom: 40px;
+    font-size: 72px;
+    text-align: center;
+}
+
+.sb-main-body .sb-contact-row h3, 
+.sb-main-body .sb-contact-row p {
+    text-align: center;
+}
+
+.sb-main-body .sb-contact-row .sb-menu li a {
+    color: #fff;
+}
+
+.sb-main-body .sb-contact-row .sb-menu li {
+    display: inline-block;
+}
+
+.sb-main-body .sb-contact-row .sb-menu {
+   text-align: center;
+   margin-bottom: 50px;
+}
